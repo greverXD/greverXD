@@ -31,3 +31,4 @@ student :)<br><br>Сomputer science, engineering.
 [![](https://visitcount.itsvg.in/api?id=greverXD&icon=3&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+https://i.gifer.com/XOsX.gif
