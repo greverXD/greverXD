@@ -7,4 +7,7 @@ in creating adaptive websites
 ![](https://nirzak-streak-stats.vercel.app/?user=greverXD&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=greverXD&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/greverXD/greverXD/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/greverXD/greverXD/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/greverXD/greverXD/blob/output/github-contribution-grid-snake.svg">
+</picture>
